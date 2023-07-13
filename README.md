@@ -1,4 +1,4 @@
- <img src="https://th.bing.com/th/id/OIP.maKe3jXsLd8flovNsX2_3QHaHa?pid=ImgDet&rs=1" height="100" />
+ <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="100" />
  
 # Typescript
 
